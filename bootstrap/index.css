@@ -1,0 +1,18 @@
+footer {
+	background-color: #267365;
+}
+header {
+	background-color: #f23030;
+	height: 100px;
+}
+main {
+	background-color: #f29f05;
+}
+#row {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+#aa {
+	color: white;
+	text-decoration: none;
+}
